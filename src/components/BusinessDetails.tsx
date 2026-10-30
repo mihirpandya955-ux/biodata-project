@@ -24,7 +24,7 @@ const BusinessDetails = () => {
     { icon: <BriefcaseBusiness size={20} />, label: "Business Type", value: "Travel & Tours Agency" },
     { icon: <MapPin size={20} />, label: "Location", value: "Gondal, Rajkot, Ahmedabad" },
     { icon: <BadgeCheck size={20} />, label: "Speciality", value: "Family Travel & Tour Services" },
-    { icon: <IndianRupee size={20} />, label: "Annual Earnings", value: "Approx. ₹10,00,000" },
+    { icon: <IndianRupee size={20} />, label: "Individual Annual Earnings", value: "Approx. ₹10,00,000" },
     { icon: <Phone size={20} />, label: "Contact", value: "+91 78198 51008" },
   ];
 

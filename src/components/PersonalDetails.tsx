@@ -23,7 +23,7 @@ const PersonalDetails = () => {
     { icon: <User size={20} />, label: "Full Name", value: "Mihir Sanjaybhai Pandya" },
     { icon: <Calendar size={20} />, label: "Date of Birth", value: "31 October, 2002 (06:30 PM)" },
     { icon: <Heart size={20} />, label: "Caste", value: "Hindu, Bhramhin (Mrudgal Gotra)" },
-    { icon: <GraduationCap size={20} />, label: "Education", value: "B.C.A, M.C.A" },
+    { icon: <GraduationCap size={20} />, label: "Education", value: "B.C.A (Atmiya University-Rajkot)\nM.C.A (Indus University-Ahmedabad)" },
     { icon: <Ruler size={20} />, label: "Height", value: "5'9\"" },
     { icon: <Scale size={20} />, label: "Weight", value: "62 Kg" },
     { icon: <Briefcase size={20} />, label: "Business", value: " Book with K.K.Tours and Travels(Gondal,Rajkot,Ahmedabad)" },
