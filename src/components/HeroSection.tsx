@@ -45,7 +45,13 @@ const HeroSection = () => {
         <div className="inline-flex items-center gap-2 px-6 py-3 bg-card rounded-full shadow-soft border border-border">
           <span className="text-primary">📍</span>
           <span className="text-sm font-medium text-foreground">
-            Gondal, Gujarat, India
+            Book with K.K.Travels, Gulmohor Road Opp.Jio Care,Gondal
+          </span>
+          </div>
+          <div className="inline-flex items-center gap-2 px-6 py-3 bg-card rounded-full shadow-soft border border-border">
+          <span className="text-primary">📍</span>
+          <span className="text-sm font-medium text-foreground">
+            Book with K.K.Travels, 402 Nakshatra 6 opp Bombay petrol pump, Rajkot
           </span>
         </div>
 
